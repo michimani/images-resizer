@@ -1,0 +1,62 @@
+[
+  {
+    "name": "android-chrome-192x192.png",
+    "x": 192,
+    "y": 192
+  },
+  {
+    "name": "android-chrome-512x512.png",
+    "x": 512,
+    "y": 512
+  },
+  {
+    "name": "apple-touch-icon-60x60.png",
+    "x": 60,
+    "y": 60
+  },
+  {
+    "name": "apple-touch-icon-180x76.png",
+    "x": 76,
+    "y": 76
+  },
+  {
+    "name": "apple-touch-icon-120x120.png",
+    "x": 120,
+    "y": 120
+  },
+  {
+    "name": "apple-touch-icon-152x152.png",
+    "x": 152,
+    "y": 152
+  },
+  {
+    "name": "apple-touch-icon-180x180.png",
+    "x": 180,
+    "y": 180
+  },
+  {
+    "name": "apple-touch-icon.png",
+    "x": 180,
+    "y": 180
+  },
+  {
+    "name": "favicon-16x16.png",
+    "x": 16,
+    "y": 16
+  },
+  {
+    "name": "favicon-32x32.png",
+    "x": 32,
+    "y": 32
+  },
+  {
+    "name": "msapplication-icon-144x144.png",
+    "x": 144,
+    "y": 144
+  },
+  {
+    "name": "mstile-150x150.png",
+    "x": 150,
+    "y": 150
+  }
+]
