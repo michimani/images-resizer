@@ -12,7 +12,7 @@ Python 3.x
 pip3 install Pillow
 ```
 
-2. Create `resize_manifest.json`. In this file, set the size and name of the resized output.
+2. Create `resize_manifest.json`. In this file, set the name, size and alpha channel of the resized output.
 
 ```
 cp resize_manifest.sample resize_manifest

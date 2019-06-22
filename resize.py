@@ -32,6 +32,8 @@ def main(base_image_path):
 
 def resize_image(base_file_object, manifest, dist_dir):
     try:
+        if 'alpha' in manifest and manifest['alpha'] is False:
+            base_file_object = base_file_object.convert('RGB')
         img_resize = base_file_object.resize(
             (manifest['x'], manifest['y']), Image.LANCZOS)
         img_resize.save('{}/{}'.format(dist_dir, manifest['name']))
